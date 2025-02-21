@@ -1,2 +1,2 @@
-
-proxmox-pve-host-backup.sh - копипаст в консоль хоста. ежедневно создание бекапа указаных папок и файлов с глубиной 7. измени путь где будет лежать бекап!
+* clean.sh - LXC Cleaner script -	запустить из контейнера - wget https://raw.githubusercontent.com/whyborn77/proxmox-stuff/main/clean.sh && chmod +x clean.sh && sudo mv clean.sh /etc/cron.weekly/ 
+* wget https://raw.githubusercontent.com/whyborn77/proxmox-stuff/main/proxmox-pve-host-backup.sh - копипаст в консоль хоста. ежедневно создание бекапа указаных папок и файлов с глубиной 7. измени путь где будет лежать бекап!
